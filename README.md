@@ -1,23 +1,5 @@
 # Iris_predictor
 
-project_root/
-│
-├── Static/
-│   └── css/
-│       └── style.css          # CSS files for styling the web interface
-│
-├── Templates/
-│   └── index.html             # HTML template for the web interface
-│
-├── irisfastapp.py             # FastAPI backend server script
-│
-├── iris.ipynb                 # Jupyter Notebook containing code for building the model
-│
-├── requirements.txt           # List of project dependencies
-│
-└── README.md                  # Project documentation and instructions
-```
-
 Here's a brief description of each component:
 
 1. **Static/css Folder:**
